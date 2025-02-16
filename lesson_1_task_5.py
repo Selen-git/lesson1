@@ -1,0 +1,13 @@
+def Num():
+    print(8)
+    print(88)
+    print(880)
+    print(8800)
+    print(88005)
+    print(880055)
+    print(8800555)
+    print(88005553)
+    print(880055535)
+    print(8800555353)
+    print(88005553535)
+Num()
