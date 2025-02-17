@@ -1,4 +1,3 @@
-age = [36 , 37 , 38 , 39]
-len = age
-print(age [0])
-print(age [3])
+my_age = 36
+my_age = my_age + 3
+print(my_age)
